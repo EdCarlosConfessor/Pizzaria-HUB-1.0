@@ -1,8 +1,8 @@
-# pizzariahub
-tcc
+# Pizzaria HUB 1.0
 
-Iniciamos o HTML & CSS do CARDÁPIO DA PIZZARIA.
+Continuação do meu TCC - curso programação WEB da Dom Bosco....
+14/12/2023 AS 14:
 
-enfim o ED aceitou o convite!!!
-OLÁ PESSOAL, BOA TARDE.
-ESTOU DANDO INICIO AOS TRABALHOS AQUI DO SERVIÇO E BORA CODAR 12/12/2023 AS 15:00HS
+BORA CODAR 
+
+=======================================================================================================
